@@ -36,7 +36,7 @@ build-job:       # This job runs in the build stage, which runs first.
     - mk-build-deps --host-arch arm64 --install --tool='apt-get -o Debug::pkgProblemResolver=yes --no-install-recommends --yes' debian/control
     - rm adaptation-motorola-sofia*.deb
     - dpkg-buildpackage -us -uc -b --host-arch arm64
-    - mv ../*.deb ../build/
+    - mv ../*.deb build/
     - echo "Compile complete."
 
 # The files which are to be made available in GitLab
