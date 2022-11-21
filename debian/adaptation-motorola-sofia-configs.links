@@ -1,0 +1,2 @@
+/usr/lib/adaptation-motorola-sofia/sources.list.d/community-motorola-sofia.list /etc/apt/sources.list.d/community-motorola-sofia.list
+/usr/lib/adaptation-motorola-sofia/trusted.gpg.d/community-motorola-sofia.gpg /etc/apt/trusted.gpg.d/community-motorola-sofia.gpg
