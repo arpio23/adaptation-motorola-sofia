@@ -1,3 +1,9 @@
+adaptation-motorola-sofia (0.0.1-2) main; urgency=medium
+
+  * Update repository and gpg file
+
+ -- arpio <alex@familyrutz.com>  Mon, 21 Nov 2022 07:59:51 -0700
+
 adaptation-motorola-sofia (0.0.1-1) main; urgency=medium
 
   * Initial commit
