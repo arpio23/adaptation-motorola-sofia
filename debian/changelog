@@ -1,3 +1,9 @@
+adaptation-motorola-sofia (0.0.1-3) main; urgency=medium
+
+  * Add kernel/bootimage dependencies
+
+ -- arpio <alex@familyrutz.com>  Wed, 23 Nov 2022 05:52:51 -0700
+
 adaptation-motorola-sofia (0.0.1-2) main; urgency=medium
 
   * Update repository and gpg file

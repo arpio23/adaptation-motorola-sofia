@@ -11,6 +11,7 @@ Architecture: arm64
 Depends: ${misc:Depends},
          adaptation-hybris-api29-phone,
          adaptation-motorola-sofia-configs (= ${binary:Version}),
+         linux-bootimage-motorola-sofia,
 Description: Community adaptation for motorola-sofia - metapackage
 
 Package: adaptation-motorola-sofia-configs
