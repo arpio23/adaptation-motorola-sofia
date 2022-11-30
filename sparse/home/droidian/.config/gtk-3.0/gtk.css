@@ -1,0 +1,10 @@
+#top-bar {
+  margin-left: 74px;
+  margin-right: 24px;
+}
+
+/* On-Screen-Keyboard Button */
+.phosh-osk-button {
+  margin-right: 24px;
+  margin-bottom: 7px;
+}
