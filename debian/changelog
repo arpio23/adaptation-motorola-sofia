@@ -1,3 +1,9 @@
+adaptation-motorola-sofia (0.0.2-2) main; urgency=medium
+
+  * Add testing to repo
+
+ -- arpio23 <alex@familyrutz.com>  Thu, 1 Dec 2022 19:31:26 -0700
+
 adaptation-motorola-sofia (0.0.2-1) main; urgency=medium
 
   * Add gtk.css Fixes round corner issue and camera notch
