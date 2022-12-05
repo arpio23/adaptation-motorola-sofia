@@ -1,3 +1,10 @@
+adaptation-motorola-sofia (0.0.2-4) main; urgency=medium
+
+  * Change scaling to 2.0
+  * Move apt files to /etc/apt
+
+ -- arpio23 <alex@familyrutz.com>  Mon, 5 Dec 2022 16:31:45 -0700
+
 adaptation-motorola-sofia (0.0.2-3) main; urgency=medium
 
   * Add apt/preferences file
