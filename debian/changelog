@@ -1,4 +1,4 @@
-adaptation-motorola-sofia (0.0.2-2) main; urgency=medium
+adaptation-motorola-sofia (0.0.2-3) main; urgency=medium
 
   * Add apt/preferences file
   * Add testing to apt/sources
