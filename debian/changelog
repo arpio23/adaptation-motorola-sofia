@@ -1,3 +1,10 @@
+adaptation-motorola-sofia (0.0.2-5) main; urgency=medium
+
+  * Move back apt files
+  * Remove gtk.css file
+
+ -- arpio23 <alex@familyrutz.com>  Wed, 14 Dec 2022 11:10:45 -0700
+
 adaptation-motorola-sofia (0.0.2-4) main; urgency=medium
 
   * Change scaling to 2.0
