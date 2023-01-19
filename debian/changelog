@@ -1,3 +1,9 @@
+adaptation-motorola-sofia (0.0.2-7) main; urgency=medium
+
+  * Depend on adaptation-hybris-api29-phone or adaptation-hybris-api30-phone
+
+ -- arpio23 <alex@familyrutz.com>  Fri, 19 Jan 2023 15:31:45 -0700
+
 adaptation-motorola-sofia (0.0.2-6) main; urgency=medium
 
   * Add delay to motogpower service 
