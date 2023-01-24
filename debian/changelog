@@ -1,3 +1,8 @@
+adaptation-motorola-sofia (0.0.2-8) main; urgency=medium
+
+  * Remove not needed overlays
+  * Symlink libandroidicu.so from apex to vendor overlay
+
 adaptation-motorola-sofia (0.0.2-7) main; urgency=medium
 
   * Depend on adaptation-hybris-api29-phone or adaptation-hybris-api30-phone
