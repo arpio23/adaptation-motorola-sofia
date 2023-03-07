@@ -1,2 +1,0 @@
-deb https://deb.arpio.ca/debian bookworm main sofia testing
-deb http://droidian-libhybris.repo.droidian.org/bookworm-libui-gralloc-eglcreateplatformwindowsurface/ bookworm main
