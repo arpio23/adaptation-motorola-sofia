@@ -1,3 +1,7 @@
+adaptation-motorola-sofia (0.0.3-1) main; urgency=medium
+
+  * Rebuild on trixie
+
 adaptation-motorola-sofia (0.0.2-9) main; urgency=medium
 
   * Cleanup
